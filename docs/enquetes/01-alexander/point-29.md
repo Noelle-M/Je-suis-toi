@@ -142,6 +142,18 @@ certaines démarches. Lorsqu’elle refuse une demande, elle explique pourquoi. 
 cadre dans lequel elle doit être réalisée.
 Cette relation permet au joueur de comprendre qu’un refus n’est pas nécessairement une obstruction.
 Parfois, il faut simplement davantage de preuves.
+Le déplacement aux États-Unis
+
+Le personnage principal ne mène pas seul des actes de police sur le territoire américain. Son déplacement s’inscrit dans le cadre de la coopération judiciaire entre les deux pays et les auditions ou vérifications réalisées sur place sont organisées avec les autorités américaines. Detective Laura Bennett, 47 ans, du Greenwich Police Department, devient son interlocutrice locale. Elle facilite les contacts, accompagne certaines démarches et reste ensuite en lien avec lui lorsque l’enquêteur rentre en France.
+
+Le joueur rencontre Jonathan Reed, Sarah Whitmore, Michael Harris et David Klein dans leur environnement professionnel. Il peut confronter leurs souvenirs à des photographies, des dates et des documents. Aucun ne lui révèle l’existence de Mikhail, puisque personne dans leur entourage ne connaît le jumeau. Leurs témoignages prennent progressivement une autre signification lorsque le joueur rapproche les petites anomalies qu’ils avaient chacun remarquées.
+
+Elena est interrogée dans le cadre judiciaire approprié. Elle reste calme et coopérative et fournit une version cohérente de la période pendant laquelle Alexander aurait voulu se mettre à l’écart. Les contradictions apparaissent lorsque le joueur confronte ses déclarations à ses déplacements, ses communications et les éléments retrouvés en France.
+
+Ethan Parker est également interrogé. Son statut de directeur de la sûreté lui permet de fournir des explications professionnelles aux alertes qui avaient inquiété Alexander. Il remet des rapports et explique les mesures de sécurité prises par l’entreprise. Il paraît parfaitement crédible parce qu’il est précisément la personne qu’Alexander aurait consultée en cas de menace réelle. Ses déclarations deviendront plus difficiles à soutenir lorsque le joueur rapprochera les rapports de sécurité, les horaires et les autres données de l’enquête.
+
+Laura Bennett ne remplace pas l’enquêteur français. Elle accomplit son propre travail local et lui permet d’accéder aux personnes, lieux et informations relevant des autorités américaines. Leur collaboration se poursuit après son retour en France.
+
 Le sixième jour et la découverte du jumeau
 Le sixième jour, la contradiction scientifique devient centrale. Les éléments biologiques du corps conduisent 
 vers Alexander Beaumont tandis que les empreintes relevées sur le mort ne correspondent pas à celles de 
@@ -249,6 +261,8 @@ par le travail.
 Bébel, Madeleine, Pascal et Martine reviennent lorsque les nouvelles hypothèses du joueur nécessitent de 
 vérifier un souvenir ou de confronter un détail. Ils ne connaissent pas toute l’histoire et leurs témoignages 
 évoluent parce que les questions deviennent plus précises.
+Ethan Parker doit pouvoir être recontacté au fil de l’enquête. Ses premières réponses sont professionnelles et rassurantes, puis le joueur peut revenir vers lui lorsqu’un rapport, une date ou une donnée contredit une partie de son récit. Son importance vient de sa présence continue dans l’entreprise et de la confiance qu’Alexander lui accordait avant sa disparition.
+
 Jonathan, Sarah, Michael et David peuvent être recontactés lorsque l’enquêteur découvre une photographie, une
 date ou un comportement qu’ils avaient déjà évoqué. Le joueur peut alors leur présenter l’élément nouveau et 
 obtenir une réponse différente de celle donnée lors du premier entretien, non parce qu’ils mentent, mais parce 
@@ -294,4 +308,3 @@ comprendre pourquoi chaque policier, chaque scientifique, chaque témoin et chaq
 fait pendant ces huit jours.
 Personne n’était là uniquement pour lui donner un indice.
 Chacun était réellement en train de vivre l’enquête avec lui.
-17, 18, 21, 23, 25 et 26
