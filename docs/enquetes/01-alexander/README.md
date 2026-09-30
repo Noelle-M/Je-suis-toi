@@ -26,6 +26,7 @@
 - [Règles de continuité](#règles-de-continuité)
 - [Les 29 points](#les-29-points)
 - [Personnages clés](#personnages-clés)
+- [Personnages](personnages/README.md)
 - [Mécanique centrale](#mécanique-centrale)
 
 ---
@@ -146,6 +147,15 @@ Médecin légiste. Elle remarque la ressemblance entre le mort et Alexander Beau
 ### Detective Laura Bennett
 
 Policière du Greenwich Police Department. Elle devient le contact américain de l’enquêteur français et reste en lien avec lui après son retour en France.
+
+---
+
+## Personnages
+
+Les fiches détaillées des personnages sont séparées du déroulement de l’enquête afin de conserver une référence unique pour leur identité, leur histoire, leur physique, leur personnalité, leurs intentions, leurs connaissances et leurs secrets.
+
+- [Entourage du flic](personnages/entourage-du-flic/README.md)
+- [Entourage de la victime](personnages/entourage-de-la-victime/README.md)
 
 ---
 
