@@ -59,7 +59,7 @@ travaille énormément et qu’il est effectivement soumis à des responsabilit�
 À la fin de 2025, Mikhail et Elena disposent d’un plan suffisamment avancé pour envisager de faire disparaître 
 temporairement Alexander tout en permettant à Mikhail d’occuper progressivement sa place.
 Janvier-août 2026 — La fabrication de la menace
-En janvier 2026, Elena et Mikhail commencent à mettre en œuvre leur campagne de peur. Les premiers 
+En janvier 2026, Elena et Mikhail commencent à mettre en œuvre leur campagne de peur. Ethan Parker participe au dispositif depuis l’intérieur du Beaumont Group et donne une caution professionnelle aux anomalies de sécurité fabriquées ou sélectionnées pour inquiéter Alexander. Les premiers 
 incidents sont suffisamment discrets pour pouvoir être attribués au hasard ou à des problèmes ordinaires. 
 Alexander reçoit des appels silencieux, remarque une voiture à plusieurs reprises et constate que certains objets 
 ont été déplacés dans son bureau.
