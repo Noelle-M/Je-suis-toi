@@ -29,6 +29,7 @@
 - [Personnages](personnages/README.md)
 - [Indices](indices/README.md)
 - [Lieux](lieux/README.md)
+- [Éléments du jeu](elements/README.md)
 - [Mécanique centrale](#mécanique-centrale)
 
 ---
