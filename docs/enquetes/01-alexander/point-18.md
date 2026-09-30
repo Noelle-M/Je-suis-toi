@@ -96,29 +96,7 @@ les documents correspondant à cette identité.
 Elena et Mikhail ont donc créé une situation dans laquelle le même homme est censé être mort en France et 
 vivant aux États-Unis, mais ils pensent que personne ne fera le rapprochement suffisamment rapidement.
 Ils n’ont pas prévu une circonstance totalement indépendante de leur plan.
-Quelques jours après la mort d’Alexander, Mikhail est arrêté aux États-Unis pour conduite en état d’ivresse. 
-Dans le cadre de cette procédure, ses empreintes digitales sont relevées. Il se présente toujours sous l’identité 
-d’Alexander Beaumont.
-Le rapprochement biométrique fait alors apparaître une contradiction impossible à ignorer. L’homme arrêté 
-sous le nom d’Alexander Beaumont possède les empreintes correspondant à Mikhail Sokolov, dont le passeport
-a été retrouvé dans le studio du mort à Poitiers.
-Les enquêteurs français ont donc un mort qui semble être Mikhail Sokolov.
-Les enquêteurs américains ont un homme vivant sous le nom d’Alexander Beaumont dont les empreintes 
-correspondent à Mikhail Sokolov.
-Et le corps retrouvé en France possède des empreintes différentes.
-Cette découverte révèle qu’il existe deux hommes.
-L’ADN permet ensuite de comprendre pourquoi leur apparence et leurs profils génétiques sont si proches. Les 
-deux hommes sont des jumeaux monozygotes. Le mort est Alexander Beaumont et l’homme vivant sous son 
-identité est Mikhail Sokolov, né Peter Beaumont.
-Le piège imaginé par Elena et Mikhail se retourne alors contre eux. Ils avaient pensé que le passeport de 
-Mikhail permettrait d’identifier le mort comme son propriétaire. Ils n’avaient pas prévu que le véritable Mikhail
-serait lui-même contrôlé par les autorités américaines quelques jours plus tard et que ses empreintes 
-permettraient de démontrer qu’il est vivant.
-Le joueur découvre ainsi que les erreurs du complot ne sont pas des oublis grossiers. Ce sont des éléments 
-parfaitement ordinaires qui deviennent des preuves uniquement parce que l’enquêteur les rapproche. Une paire 
-de chaussures ne devrait pas permettre d’identifier un milliardaire mort dans une ruelle. Un bouton de 
-manchette ne devrait pas permettre de remonter jusqu’à une famille américaine. Un passeport ne devrait pas 
-créer une seconde identité. Une arrestation pour conduite en état d’ivresse ne devrait pas résoudre un meurtre 
-commis à plusieurs milliers de kilomètres.
-Pris séparément, aucun de ces éléments ne suffit.
-Ensemble, ils font s’effondrer toute la construction.
+
+Ils avaient conçu une histoire dans laquelle Mikhail Sokolov mourait en France et Alexander Beaumont continuait à vivre aux États-Unis. Ils avaient prévu les questions les plus évidentes et préparé une identité crédible pour le mort. Ils n’avaient pas prévu l’enquêteur qui refuserait de considérer le passeport comme une réponse suffisante et continuerait à chercher ce que les chaussures, le bouton de manchette et les témoignages racontaient réellement.
+
+Leur plan n’est donc pas détruit par une erreur grossière. Il commence à se fissurer parce qu’ils ont voulu fabriquer une histoire suffisamment convaincante pour arrêter une enquête, sans pouvoir contrôler les détails ordinaires laissés derrière eux.
