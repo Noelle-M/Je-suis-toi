@@ -96,3 +96,7 @@ réveiller un souvenir qu’il n’avait jamais considéré comme important.
 Jonathan ne pourra pas dire qu’il avait compris.
 Il pourra seulement dire qu’avec le recul, quelque chose n’allait pas.
 Et c’est précisément ce que l’enquêteur devra apprendre à écouter.
+
+Ethan Parker, 56 ans, directeur de la sûreté du Beaumont Group, connaît Alexander depuis plus de quinze ans et lui inspire une confiance particulière. Il utilise cette position pour donner une caution professionnelle aux menaces organisées par Elena et Mikhail. Il fournit des rapports de sécurité, confirme certaines anomalies et présente comme des menaces extérieures des événements qu’il a lui-même provoqués ou sélectionnés. Son rôle se poursuit après le départ d’Alexander afin de maintenir la cohérence de la situation auprès de l’entreprise et de faciliter l’installation progressive de Mikhail.
+
+Detective Laura Bennett, 47 ans, du Greenwich Police Department, devient le point de contact américain lorsque l’affaire prend une dimension internationale. Elle accompagne le personnage principal pendant son déplacement aux États-Unis, facilite les auditions et vérifications locales et reste en contact avec lui après son retour en France. Elle sera la personne qui le préviendra lorsqu’un événement concernant Mikhail surviendra aux États-Unis.
