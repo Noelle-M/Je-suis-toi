@@ -1,6 +1,7 @@
 Point 9 — La campagne de peur
-La campagne destinée à pousser Alexander à disparaître commence au début de l’année 2026, après plusieurs 
-années de préparation. Elena et Mikhail savent qu’Alexander ne quittera jamais spontanément sa vie, son 
+Ethan Parker participe directement à cette étape. En tant que directeur de la sûreté du Beaumont Group, il possède une légitimité particulière pour parler à Alexander de risques, de surveillance et de failles de sécurité. Il s’appuie sur de véritables événements ou anomalies qu’il provoque ou sélectionne, puis les présente comme les signes d’une menace extérieure. Son rôle est de donner à Alexander la confirmation professionnelle dont Elena a besoin pour rendre la peur crédible.
+
+La campagne destinée à pousser Alexander à disparaître commence au début de l’année 2026, après plusieurs années de préparation. Elena et Mikhail savent qu’Alexander ne quittera jamais spontanément sa vie, son 
 entreprise et ses habitudes. Il est trop attaché au contrôle pour accepter de disparaître sans raison. Leur stratégie
 consiste donc à créer autour de lui une série d’événements suffisamment inquiétants pour qu’il finisse par 
 considérer lui-même la fuite comme la seule solution raisonnable.

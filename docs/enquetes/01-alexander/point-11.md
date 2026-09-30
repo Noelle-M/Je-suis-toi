@@ -6,8 +6,9 @@ quelqu’un appartenant à son environnement professionnel. Il n’y possède au
 n’y a jamais eu d’activité régulière avec le Beaumont Group.
 Il entre sur le territoire français avec son véritable passeport américain. Pour Alexander, il n’est pas question de
 fabriquer de faux documents ou de franchir clandestinement une frontière. Il pense toujours participer à une 
-opération temporaire destinée à identifier les personnes qui le surveillent. En revanche, dès son arrivée à 
-Poitiers, il cesse d’utiliser son identité réelle dans sa vie quotidienne.
+opération temporaire destinée à identifier les personnes qui le surveillent. Après son arrivée, Elena lui explique qu’il ne doit plus conserver son passeport américain avec lui, car il pourrait permettre de relier sa nouvelle identité à son ancienne vie. Elle lui remet alors le véritable passeport de Mikhail Sokolov en lui affirmant qu’il s’agit d’un faux document de couverture préparé pour sa protection. Alexander n’a aucune raison de soupçonner qu’il s’agit du véritable passeport de son frère et le conserve dans le studio. À partir de ce moment, Alexander possède le passeport de Mikhail tandis que Mikhail, aux États-Unis, dispose du passeport d’Alexander.
+
+Dès son arrivée à Poitiers, il cesse d’utiliser son identité réelle dans sa vie quotidienne.
 Elena lui a préparé l’identité de Daniel Morel, 54 ans, Français ayant longtemps vécu à l’étranger et 
 récemment revenu en France. Cette identité n’est pas destinée à résister à une enquête administrative 
 approfondie. Elle sert uniquement dans les interactions ordinaires, auprès des voisins, des commerçants et des 

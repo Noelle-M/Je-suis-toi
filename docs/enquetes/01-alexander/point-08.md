@@ -4,8 +4,9 @@ Elle partage désormais le quotidien de son mari, voyage avec lui, rencontre ses
 certaines réceptions professionnelles et voit surtout l’homme public disparaître une fois les portes de leur 
 maison refermées. Pendant plusieurs années, elle transmet progressivement à Mikhail tout ce qu’elle apprend 
 sur son frère.
-Cette préparation ne commence pas comme un entraînement organisé destiné à fabriquer une copie parfaite 
-d’Alexander. Au départ, Elena raconte simplement son quotidien à Mikhail. Elle lui décrit les personnes qu’elle
+Ethan Parker, 56 ans, directeur de la sûreté du Beaumont Group et proche personnel d’Alexander depuis plus de quinze ans, participe également à la préparation. Alexander lui fait confiance pour les questions de sécurité liées à son activité et à ses déplacements. Ethan utilise progressivement cette position pour rendre crédibles les menaces qui seront ensuite présentées à Alexander.
+
+Cette préparation ne commence pas comme un entraînement organisé destiné à fabriquer une copie parfaite d’Alexander. Au départ, Elena raconte simplement son quotidien à Mikhail. Elle lui décrit les personnes qu’elle
 rencontre, les habitudes de son mari, les endroits qu’ils fréquentent et les anecdotes qu’Alexander lui confie. 
 Mais Mikhail retient tout. Il pose de plus en plus de questions et finit par demander des détails extrêmement 
 précis. Ce qui ressemblait encore à de la curiosité devient progressivement un véritable travail d’observation.

@@ -10,10 +10,7 @@ ralentir et de la pression qu’il subit. Elle n’a pas inventé une maladie et
 allait se retirer de l’entreprise. Elle a simplement installé l’idée qu’Alexander est épuisé, préoccupé et beaucoup
 moins disponible qu’auparavant. Lorsqu’il part pour la France, ses collaborateurs savent déjà qu’il traverse une 
 période inhabituelle et qu’il a commencé à déléguer davantage.
-Mikhail arrive aux États-Unis quelques jours avant le départ de son frère. Il ne se montre pas publiquement et 
-reste dans un logement discret préparé par Elena. Les deux frères ne se rencontrent jamais. Pendant 
-qu’Alexander organise son départ en pensant échapper à ceux qui le surveillent, Mikhail attend que la place soit
-libre.
+Mikhail arrive aux États-Unis quelques jours avant le départ de son frère. Il ne se montre pas publiquement et reste dans un logement discret préparé par Elena. Les deux frères ne se rencontrent jamais. Pendant qu’Alexander organise son départ en pensant échapper à ceux qui le surveillent, Mikhail attend que la place soit libre. Il entre sur le territoire américain sous sa propre identité, puis Elena lui remet le véritable passeport américain d’Alexander. Mikhail conserve désormais le passeport de son frère et l’utilise lorsqu’une pièce d’identité est nécessaire, tandis qu’Alexander conserve en France le passeport de Mikhail sans savoir qu’il appartient à son frère.
 La première semaine, aucune apparition importante n’est organisée. Elena informe l’entourage professionnel 
 qu’Alexander a besoin de repos et qu’il souhaite travailler à distance pendant quelques jours. Plusieurs réunions
 sont reportées et les décisions courantes sont confiées aux cadres habituels du groupe. Cette période permet à 
