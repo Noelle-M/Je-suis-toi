@@ -26,6 +26,9 @@ Je-suis-toi/
 │   └── enquetes/
 │       └── 01-alexander/
 │           ├── README.md
+│           ├── personnages/
+│           │   ├── entourage-du-flic/
+│           │   └── entourage-de-la-victime/
 │           ├── point-01.md
 │           ├── point-02.md
 │           ├── ...
@@ -39,4 +42,4 @@ Je-suis-toi/
 
 La première enquête est centrée sur Alexander Beaumont, homme d’affaires américain retrouvé mort à Poitiers alors qu’un autre homme continue publiquement à vivre sous son identité.
 
-La documentation détaillée de l’affaire est organisée en un fichier Markdown par point afin de pouvoir faire évoluer l’histoire sans mélanger la bible narrative et le code du jeu.
+La documentation détaillée de l’affaire est organisée en un fichier Markdown par point. Les personnages possèdent en parallèle leurs propres fiches, séparées du déroulement de l’enquête, afin de conserver une référence complète et cohérente sans mélanger la bible narrative et le code du jeu.
