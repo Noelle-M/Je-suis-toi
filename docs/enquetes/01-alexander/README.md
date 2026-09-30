@@ -28,6 +28,7 @@
 - [Personnages clés](#personnages-clés)
 - [Personnages](personnages/README.md)
 - [Indices](indices/README.md)
+- [Lieux](lieux/README.md)
 - [Mécanique centrale](#mécanique-centrale)
 
 ---
