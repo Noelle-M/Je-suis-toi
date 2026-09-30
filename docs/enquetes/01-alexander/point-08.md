@@ -82,7 +82,7 @@ Pendant plusieurs années, Mikhail reste physiquement loin des États-Unis. Il n
 ne cherche jamais à entrer directement dans son environnement. Cette séparation protège le projet. Aucun 
 collaborateur du Beaumont Group, aucun ami d’Alexander et aucun membre de son entourage ne doit avoir vu 
 les deux frères avant le début de la substitution.
-Elena devient donc le lien unique entre leurs deux mondes.
+Elena reste le lien intime entre les deux hommes, tandis qu’Ethan devient le relais professionnel qui permet de donner une apparence réelle aux menaces.
 À mesure que le temps passe, Mikhail est capable de regarder une interview de son frère et d’anticiper certaines
 de ses réponses. Il connaît les principaux membres de son entourage sans les avoir jamais rencontrés. Il sait 
 quels gestes Alexander fait lorsqu’il réfléchit, ce qu’il commande dans un restaurant et quelle expression il 
