@@ -61,19 +61,27 @@ Le joueur doit donc avoir la sensation d’un enquêteur libre dans son raisonne
 
 Le temps du jeu suit le temps réel.
 
-Vingt-quatre heures réelles correspondent à vingt-quatre heures dans l’univers de l’enquête. Lorsque le joueur quitte le jeu pendant plusieurs heures, plusieurs heures s’écoulent également dans l’affaire.
+**24 heures réelles = 24 heures dans l’enquête.**
 
-Les personnages possèdent leurs propres horaires et leurs disponibilités. Les résultats d’analyses arrivent après un délai cohérent avec leur nature. Un témoin peut rappeler plus tard, un rendez-vous peut être fixé au lendemain et un lieu peut n’être accessible qu’à certaines heures.
+Lorsque le joueur quitte le jeu pendant plusieurs heures, plusieurs heures s’écoulent également dans l’univers de l’affaire.
 
-Le téléphone de l’enquêteur peut recevoir des SMS, des appels, des messages vocaux, des photographies, des rapports et des résultats pendant son absence.
+| Le monde continue | Conséquence |
+| --- | --- |
+| Personnages | Ils travaillent, se déplacent et deviennent disponibles selon leurs propres horaires |
+| Analyses | Les résultats arrivent après un délai cohérent |
+| Rendez-vous | Ils peuvent être fixés plusieurs heures ou plusieurs jours plus tard |
+| Téléphone | SMS, appels, messages vocaux, photographies et résultats peuvent arriver pendant l’absence |
+| Événements | Certains événements peuvent se produire sans que le joueur soit connecté |
 
 Le temps réel ne doit cependant jamais bloquer définitivement l’enquête. Lorsqu’un événement important se produit pendant l’absence du joueur, l’information doit rester récupérable à son retour.
+
+> **Le temps doit créer de l’attente, pas de la frustration.**
 
 L’objectif est de créer une enquête qui accompagne réellement le joueur pendant plusieurs jours. Il doit pouvoir quitter le jeu avec une question en tête et avoir envie d’y revenir parce qu’une hypothèse lui est venue entre-temps.
 
 ---
 
-## 4. La liberté d’enquête
+# 4. La liberté d’enquête
 
 Le jeu ne doit pas être construit comme une succession de missions imposant une seule action correcte.
 
@@ -205,7 +213,7 @@ Le déplacement international doit donc modifier réellement la manière de trav
 
 ---
 
-## 13. La résolution
+# 13. La résolution
 
 La résolution ne consiste pas simplement à demander au joueur de sélectionner un coupable dans une liste.
 
