@@ -86,34 +86,9 @@ L’hôtel de Kazan dans lequel Mikhail découvre Alexander à la télévision e
 
 # Fiches de lieux
 
-Chaque lieu important aura sa propre fiche lorsque sa conception détaillée commencera.
+Les fiches individuelles seront créées lorsque la conception détaillée des décors commencera. Le présent document constitue pour l’instant l’inventaire maître des lieux, leur fonction dans l’enquête et leur ordre d’apparition.
 
-| ID | Fiche |
-| --- | --- |
-| L-001 | [Bureau de l’enquêteur](bureau-enqueteur.md) |
-| L-002 | [Commissariat / groupe d’enquête](commissariat-poitiers.md) |
-| L-003 | [Ruelle du corps](ruelle-corps.md) |
-| L-004 | [Studio de Daniel Morel](studio-daniel-morel.md) |
-| L-005 | [Institut médico-légal](institut-medico-legal.md) |
-| L-006 | [Police scientifique](police-scientifique.md) |
-| L-007 | [Boulangerie de Pascal](boulangerie-pascal.md) |
-| L-008 | [Supermarché du quartier](supermarche.md) |
-| L-009 | [Secteur de Bébel](secteur-bebel.md) |
-| L-010 | [Gare de Poitiers](gare-poitiers.md) |
-| L-011 | [Kiosque de la gare](kiosque-gare.md) |
-| L-012 | [Maison Beaumont](maison-beaumont.md) |
-| L-013 | [Beaumont Group](beaumont-group.md) |
-| L-014 | [Bureau de Laura Bennett](bureau-laura-bennett.md) |
-| L-015 | [Logement temporaire de Mikhail](logement-mikhail.md) |
-| L-016 | [Maison de Galina](maison-galina.md) |
-| L-017 | [Archives administratives françaises](archives-francaises.md) |
-| L-018 | [Archives américaines](archives-americaines.md) |
-| L-019 | [Aéroport](aeroport.md) |
-| L-020 | [Hôtel de transit](hotel-transit.md) |
-
-Les fiches individuelles seront créées progressivement. Le présent document constitue l’inventaire de référence afin d’éviter d’ajouter ou de supprimer un lieu sans vérifier son rôle dans l’enquête.
-
----
+Chaque fiche détaillée devra ensuite préciser l’architecture, l’ambiance, les vues disponibles, les personnages présents, les interactions possibles, les indices accessibles, les changements selon les jours et les conditions d’accès.
 
 # Règles de conception
 
