@@ -29,6 +29,10 @@ Je-suis-toi/
 │           ├── personnages/
 │           │   ├── entourage-du-flic/
 │           │   └── entourage-de-la-victime/
+│           ├── indices/
+│           │   └── README.md
+│           ├── lieux/
+│           │   └── README.md
 │           ├── point-01.md
 │           ├── point-02.md
 │           ├── ...
