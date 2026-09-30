@@ -89,7 +89,7 @@ Le joueur n’a cependant toujours aucune preuve que Mikhail Sokolov est l’hom
 d’Alexander.
 Il sait seulement qu’un homme correspondant à cette identité existe et qu’il est né le même jour qu’Alexander.
 Jour 6 — Mikhail Sokolov
-Le sixième jour permet au joueur de reconstruire la vie de Mikhail.
+Le sixième jour confronte les éléments français et américains. Le joueur découvre progressivement l’existence de Peter Beaumont, devenu Mikhail Sokolov, mais la preuve définitive de l’identité de l’homme vivant sous le nom d’Alexander n’est pas encore acquise.
 Les archives russes montrent qu’il a grandi à Nijni Novgorod sous le nom de Mikhail Sokolov après avoir 
 quitté les États-Unis avec sa mère. Les photographies conservées par sa famille montrent qu’il est bien le même
 enfant que Peter Beaumont.
@@ -126,20 +126,12 @@ Le huitième jour n’apporte pas une succession de nouveaux secrets. Il donne a
 l’épreuve la théorie qu’il a construite.
 Il peut reprendre les dates, comparer les témoignages, vérifier les déplacements, examiner les photographies et 
 confronter les informations recueillies auprès d’Elena, de Mikhail et de l’entourage d’Alexander.
-Les dernières constatations scientifiques permettent de confirmer que le corps retrouvé en France et l’homme 
-vivant sous le nom d’Alexander ne peuvent pas être le même individu malgré leur proximité génétique 
-exceptionnelle.
-Le joueur dispose alors de suffisamment d’éléments pour comprendre l’essentiel de la machination. Le 
-véritable Alexander vivait à Poitiers sous une fausse identité tandis que son frère jumeau occupait 
-progressivement sa place aux États-Unis avec l’aide d’Elena.
-Il reste cependant une question que le joueur ne peut pas résoudre définitivement avec les seuls éléments 
-accumulés pendant l’enquête.
-Qu’est devenu Mikhail Sokolov au moment où le corps d’Alexander a été découvert ?
+Le joueur dispose alors de suffisamment d’éléments pour comprendre l’essentiel de la machination. Le véritable Alexander vivait à Poitiers sous une fausse identité tandis que son frère jumeau occupait progressivement sa place aux États-Unis avec l’aide d’Elena. Il lui manque encore la preuve qui permettra de démontrer définitivement que Mikhail Sokolov est vivant sous le nom d’Alexander.
+
+Cette preuve appartient à la résolution finale et ne peut être obtenue à Poitiers.
 La réponse appartient à la résolution finale.
 Le huitième jour se termine donc au moment où le joueur pense avoir reconstitué l’affaire, mais avant que la 
 dernière preuve ne lui soit apportée. Il peut alors présenter sa théorie, continuer à examiner son tableau et 
 décider qu’il est prêt à clôturer l’enquête.
 La résolution du point 28 constitue le moment où le dossier bascule définitivement de l’hypothèse à la preuve.
-Le joueur découvre alors que le hasard a fourni aux enquêteurs l’élément qu’Elena et Mikhail ne pouvaient pas 
-contrôler : une arrestation aux États-Unis, une procédure banale et une prise d’empreintes qui vont permettre de
-démontrer que Mikhail Sokolov est vivant.
+Le joueur sait qu’une dernière vérification dépend encore de son contact américain. Il est rentré en France, mais Laura Bennett reste en lien avec lui.
