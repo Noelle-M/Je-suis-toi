@@ -33,6 +33,8 @@ Je-suis-toi/
 │           │   └── README.md
 │           ├── lieux/
 │           │   └── README.md
+│           ├── elements/
+│           │   └── README.md
 │           ├── point-01.md
 │           ├── point-02.md
 │           ├── ...
