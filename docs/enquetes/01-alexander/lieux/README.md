@@ -68,6 +68,25 @@ Le siège du Beaumont Group reste un lieu fictif de l’univers du jeu. Il est s
 
 ---
 
+# Parcours des lieux sur les huit jours
+
+Le joueur ne change pas nécessairement de lieu chaque jour. Le **bureau de l’enquêteur** constitue le point d’ancrage permanent du dossier et plusieurs lieux sont revisités lorsque de nouveaux éléments apparaissent. La présence d’un lieu dans une journée signifie qu’il peut être utilisé à ce moment-là, pas qu’une visite est obligatoire.
+
+| Jour | Lieux principaux accessibles | Ce qui s’y passe |
+| ---: | --- | --- |
+| **J1** | Bureau de l’enquêteur · Commissariat · Ruelle · Studio · Institut médico-légal | Découverte du corps, premières constatations, identification apparente, premier contact avec Élise |
+| **J2** | Bureau · Studio · Boulangerie · Supermarché · Secteur de Bébel · Institut médico-légal · Police scientifique | Reconstruction de la vie de Daniel, témoignages du quartier, premières analyses |
+| **J3** | Bureau · Police scientifique · Boulangerie · Secteur de Bébel · Studio | Examen des chaussures, retour vers Pascal et Bébel, recherche sur le bouton de manchette et les premières traces reliant Daniel à Alexander |
+| **J4** | Bureau · Commissariat · Police scientifique · Rédaction de Maud | Recherche sur Alexander, ses apparitions publiques, les données numériques et premières vérifications auprès de son entourage |
+| **J5** | Aéroport · Bureau de Laura Bennett · Maison Beaumont · Beaumont Group | Déplacement aux États-Unis, coopération locale, auditions d’Elena et des collaborateurs, découverte de l’environnement américain |
+| **J6** | Bureau de l’enquêteur · Institut médico-légal · Police scientifique · Archives administratives | Retour en France, rapprochement des éléments, recherches sur Peter Beaumont et Mikhail Sokolov |
+| **J7** | Bureau · Commissariat · Rédaction de Maud · Parquet / tribunal | Recherche sur la fuite interne, confrontation avec Julien, travail judiciaire et approfondissement de la piste Elena-Mikhail |
+| **J8** | Bureau · Commissariat · Gare de Poitiers · Kiosque de la gare · Institut médico-légal | Derniers recoupements, reconstitution de la dernière journée d’Alexander et préparation de la résolution |
+
+Le déplacement aux États-Unis occupe une véritable séquence de l’enquête. Le joueur ne peut pas y exercer directement les compétences de la police française et travaille avec Detective Laura Bennett. Le Greenwich Police Department est installé au Public Safety Complex de 11 Bruce Place et dispose d’une Detective Division chargée notamment des enquêtes criminelles. citeturn4search0turn4search1
+
+Le retour en France est volontairement visible dans le parcours. À partir du jour 6, le bureau de l’enquêteur redevient le centre de travail tandis que Laura Bennett reste joignable à distance. La preuve finale concernant Mikhail arrivera donc aux États-Unis sans que le personnage principal ait à repartir sur place.
+
 # Lieux secondaires et de liaison
 
 | ID | Lieu | Fonction |
@@ -77,8 +96,10 @@ Le siège du Beaumont Group reste un lieu fictif de l’univers du jeu. Il est s
 | L-018 | **Archives américaines** | Actes de naissance et recherches concernant la famille Beaumont |
 | L-019 | **Aéroport** | Déplacements internationaux du personnage principal |
 | L-020 | **Hôtel de transit aux États-Unis** | Point de départ pratique lors du déplacement du joueur |
+| L-021 | **Rédaction de Maud Ferrand** | Rencontre avec la journaliste et recherche de l’origine des informations publiées |
+| L-022 | **Parquet / tribunal judiciaire de Poitiers** | Démarches judiciaires, rendez-vous et autorisations nécessaires à certaines étapes |
 
-Les archives et l’hôtel peuvent être traités comme des lieux de jeu lorsqu’une scène nécessite une présence physique. Les informations obtenues à distance ne doivent pas obliger le joueur à se déplacer artificiellement.
+Les archives et l’hôtel peuvent être traités comme des lieux de jeu lorsqu’une scène nécessite une présence physique. Les informations obtenues à distance ne doivent pas obliger le joueur à se déplacer artificiellement. Les recherches russes concernant Galina et les documents de Mikhail peuvent notamment être réalisées à distance depuis le bureau ou avec l’aide des autorités compétentes ; la maison de Galina n’est pas un lieu présent du joueur dans cette enquête.
 
 L’hôtel de Kazan dans lequel Mikhail découvre Alexander à la télévision est un lieu historique de l’affaire, mais **pas un lieu accessible au joueur dans le présent de l’enquête**. Il appartient à la chronologie secrète et peut éventuellement être montré dans une reconstitution finale.
 
@@ -89,6 +110,8 @@ L’hôtel de Kazan dans lequel Mikhail découvre Alexander à la télévision e
 Les fiches individuelles seront créées lorsque la conception détaillée des décors commencera. Le présent document constitue pour l’instant l’inventaire maître des lieux, leur fonction dans l’enquête et leur ordre d’apparition.
 
 Chaque fiche détaillée devra ensuite préciser l’architecture, l’ambiance, les vues disponibles, les personnages présents, les interactions possibles, les indices accessibles, les changements selon les jours et les conditions d’accès.
+
+Les lieux qui servent uniquement de source documentaire ou de point de contact à distance ne doivent pas être transformés artificiellement en lieux jouables.
 
 # Règles de conception
 
