@@ -78,7 +78,7 @@ hommes qui le surveillent participent au même dispositif. S’il réussit à co
 membre du conseil d’administration ou simplement la police, toute la substitution risque de s’effondrer en 
 quelques heures.
 Il n’est même pas nécessaire qu’il comprenne l’ensemble du complot.
-Il lui suffit de dire qu’il est Alexander Beaumont, qu’il vit caché en France depuis plusieurs mois et qu’un autre
+Il lui suffit de dire qu’il est Alexander Beaumont, qu’il vit caché en France depuis trois mois et qu’un autre
 homme apparaît actuellement aux États-Unis sous son nom.
 Le risque devient donc immédiat.
 Les deux hommes préviennent leurs commanditaires qu’Alexander a découvert le magazine et qu’il sait 
