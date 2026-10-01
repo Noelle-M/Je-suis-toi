@@ -64,4 +64,4 @@ consciente et active. Mikhail fournit la rancœur et la légitimité qu’il att
 patience, l’intelligence sociale et la capacité à transformer cette rancœur en plan réalisable.
 Lorsqu’elle part pour les États-Unis, elle ne connaît pas encore personnellement Alexander Beaumont.
 Quelques mois plus tard, elle deviendra la femme qu’il croit avoir rencontrée par hasard.
-Et six ans plus tard, elle sera son épouse.
+En juin 2021, elle sera son épouse.
