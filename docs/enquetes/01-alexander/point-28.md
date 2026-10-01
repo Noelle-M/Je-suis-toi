@@ -4,11 +4,11 @@ La résolution commence lorsque le joueur estime avoir suffisamment compris l’
 
 Le joueur peut présenter son raisonnement avant le huitième jour, mais il ne peut pas obtenir la preuve finale tant que l’événement américain ne s’est pas produit. Le personnage principal est déjà rentré en France, mais il reste en contact avec Detective Laura Bennett, rencontrée pendant son déplacement aux États-Unis.
 
-Quelques jours après le début de l’enquête, Mikhail commet une erreur sans rapport direct avec le meurtre. Il sort d’une soirée après avoir trop bu et prend le volant. Une patrouille du secteur de Greenwich l’arrête pour conduite en état d’ivresse. Rien dans cette arrestation n’est lié au dossier français. Mikhail se présente simplement sous l’identité qu’il utilise désormais : Alexander Beaumont.
+Au cours de la huitième journée, alors que le personnage principal est déjà rentré en France, Mikhail commet une erreur sans rapport direct avec le meurtre. Il sort d’une soirée après avoir trop bu et prend le volant. Une patrouille du secteur de Greenwich l’arrête pour conduite en état d’ivresse. Rien dans cette arrestation n’est lié au dossier français. Mikhail se présente simplement sous l’identité qu’il utilise désormais : Alexander Beaumont.
 
 Dans le cadre de la procédure, ses empreintes digitales sont relevées. Le contrôle biométrique révèle une identité qui ne correspond pas aux documents présentés. L’homme qui affirme être Alexander Beaumont correspond aux données associées à Mikhail Sokolov.
 
-Laura Bennett comprend immédiatement que cette découverte peut être liée à l’enquête française. Elle contacte le personnage principal, qui se trouve alors en France. Il lui demande de vérifier les données et de comparer les empreintes de Mikhail avec celles du corps retrouvé à Poitiers.
+Laura Bennett comprend immédiatement que cette découverte peut être liée à l’enquête française. Elle contacte le personnage principal, qui se trouve déjà en France après son déplacement aux États-Unis. Il lui demande de vérifier les données et de comparer les empreintes de Mikhail avec celles du corps retrouvé à Poitiers.
 
 La comparaison produit la contradiction que personne n’avait pu résoudre jusque-là. Les empreintes de l’homme arrêté aux États-Unis correspondent à Mikhail Sokolov. Les empreintes relevées sur le corps français sont différentes. Le passeport de Mikhail retrouvé dans le studio avait donc bien été placé là pour faire croire que le mort était son propriétaire.
 
