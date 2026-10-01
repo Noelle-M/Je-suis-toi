@@ -80,11 +80,8 @@ reliées à Mikhail Sokolov et à Irina. Les photographies conservées par Galin
 enfants lorsqu’ils étaient petits. La lettre d’Irina établit la fuite avec Peter et l’abandon involontaire 
 d’Alexander. Ces documents forment progressivement le pont entre l’histoire familiale et le crime 
 contemporain.
-Les empreintes digitales sont reliées aux deux hommes et constituent une preuve essentielle de leur différence 
-physique malgré leur identité génétique presque indissociable. Le profil ADN relie le corps à la famille 
-Beaumont et permet d’établir que l’homme mort à Poitiers est biologiquement Alexander. La confrontation 
-entre l’ADN du corps et les empreintes de l’homme vivant sous le nom d’Alexander constitue finalement l’une 
-des preuves les plus fortes de l’existence de deux individus.
+Les empreintes digitales sont reliées aux deux hommes et constituent une preuve essentielle de leur différence physique malgré leur identité génétique presque indissociable. Le profil ADN relie le corps à la famille Beaumont, mais ne permet pas à lui seul de distinguer deux jumeaux monozygotes. L’identification du mort comme Alexander résulte du recoupement entre les empreintes relevées sur le corps, celles de Mikhail obtenues aux États-Unis, les archives de naissance et les documents établissant que Mikhail est Peter Beaumont. Une fois Mikhail identifié comme l’un des deux jumeaux, le corps portant les empreintes de l’autre ne peut être que celui d’Alexander.
+
 Le tableau comporte également des éléments moins matériels, notamment les témoignages. Le témoignage de 
 Jonathan Reed est relié aux changements de comportement du faux Alexander. Les témoignages des habitants 
 de Poitiers sont reliés à la vie de Daniel Morel et à la surveillance dont il faisait l’objet. Le témoignage de 
