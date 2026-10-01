@@ -1,6 +1,6 @@
 Point 2 — Enfance d’Alexander Beaumont
-Alexander Beaumont naît le 18 avril 1974 à New York, quelques minutes après son frère jumeau monozygote, 
-Mikhail. Leur père, Richard Beaumont, a alors 38 ans. Héritier d’une famille américaine fortunée d’origine 
+Alexander Beaumont naît le 18 avril 1974 à New York, onze minutes après son frère jumeau monozygote, 
+Peter Beaumont. Leur père, Richard Beaumont, a alors 38 ans. Héritier d’une famille américaine fortunée d’origine 
 française, il dirige déjà une partie importante du groupe familial. Leur mère, Irina Sokolova, 27 ans, est Russe 
 et originaire de Nijni Novgorod.
 En société, Richard Beaumont donne l’image d’un homme brillant, cultivé, charismatique et parfaitement 
