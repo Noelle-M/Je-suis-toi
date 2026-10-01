@@ -26,10 +26,8 @@ Mikhail photographie l’écran et commence à rechercher cet homme. Il découvr
 naissance commune, leur ressemblance exceptionnelle et le nom d’Irina dans la biographie d’Alexander. Il 
 comprend que cette découverte est liée au passé que sa mère a toujours refusé d’évoquer.
 Mikhail confronte Irina, mais elle refuse de lui raconter la vérité et lui demande de ne jamais chercher 
-Alexander. Elle meurt quelques mois plus tard sans avoir révélé l’existence de son autre fils.
-Après sa mort, Mikhail se tourne vers sa grand-mère Galina. Celle-ci finit par lui raconter toute l’histoire et lui 
-apprend qu’il est né Peter Beaumont, qu’Alexander est son frère jumeau et qu’Irina a fui les États-Unis avec lui
-lorsqu’ils étaient enfants.
+Alexander. Elle meurt en février 2019, à l’âge de 72 ans, sans avoir révélé l’existence de son autre fils.
+Après sa mort, Mikhail se tourne vers sa grand-mère Galina. Celle-ci finit par lui raconter toute l’histoire et lui apprend qu’il est né Peter Beaumont, qu’Alexander est son frère jumeau et qu’Irina a fui les États-Unis avec lui lorsqu’ils étaient enfants.
 2019-2021 — Elena et Mikhail
 La découverte d’Alexander bouleverse Mikhail. Il commence à suivre sa vie à distance et découvre l’étendue de
 la fortune familiale dont Alexander a hérité. Il voit les propriétés, les entreprises, les voyages et les apparitions 
