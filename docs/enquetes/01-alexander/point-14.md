@@ -43,7 +43,7 @@ inquiétantes. Un sosie pourrait être utilisé pour maintenir l’apparence de 
 avoir été manipulées. Le Beaumont Group pourrait participer à une opération dont il ignore tout. Quelle que 
 soit l’explication, une conclusion s’impose immédiatement : Elena lui a caché quelque chose d’essentiel.
 Elle est la seule personne qui connaissait son départ, organisait sa clandestinité, contrôlait l’argent qu’il recevait
-et lui affirmait depuis des mois que son absence était discrètement gérée aux États-Unis. Si quelqu’un occupe 
+et lui affirmait depuis trois mois que son absence était discrètement gérée aux États-Unis. Si quelqu’un occupe 
 désormais publiquement sa place, elle ne peut pas l’ignorer.
 Alexander est encore en train de lire lorsqu’il relève la tête.
 Au loin, dans le hall de la gare, il aperçoit les deux hommes qu’il pensait avoir semés.
