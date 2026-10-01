@@ -1,8 +1,7 @@
 Point 3 — Identité du frère jumeau
 Peter Beaumont naît le 18 avril 1974 à New York, onze minutes avant Alexander. Il devient Mikhail Sokolov après son départ pour la Russie. Lorsqu’Irina fuit les États￾Unis avec lui alors qu’il a vingt mois, elle reprend son nom de naissance, Sokolova, et fait enregistrer son fils 
 sous le nom de Mikhail Sokolov. C’est sous cette identité qu’il grandit et vit pendant près de cinquante ans. Il 
-sait que sa mère a vécu quelque temps aux États-Unis avant sa naissance, mais elle ne lui raconte presque rien 
-de cette période et il ignore totalement qu’il est né sous le nom de Peter Beaumont.
+sait que sa mère a vécu aux États-Unis avant de revenir en Russie avec lui, mais elle ne lui raconte presque rien de cette période et il ignore totalement qu’il est né sous le nom de Peter Beaumont.
 Mikhail grandit à Nijni Novgorod avec sa mère et sa grand-mère maternelle, Galina Sokolova. Leur situation 
 financière est difficile. Irina travaille beaucoup, d’abord dans des emplois administratifs mal payés, puis 
 comme traductrice pour différentes entreprises. La famille ne connaît jamais la misère absolue, mais l’argent 
