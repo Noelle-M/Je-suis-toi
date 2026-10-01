@@ -1,10 +1,6 @@
 Point 21 — Les preuves de l’existence du jumeau
-La recherche sur Mikhail Sokolov conduit les enquêteurs jusqu’à son acte de naissance russe et à plusieurs 
-documents administratifs retraçant sa vie. Sa date et son lieu de naissance attirent immédiatement l’attention : 
-Mikhail Sokolov est né à New York le 18 avril 1974.
-Cette information permet de reprendre les recherches dans les archives américaines. Les registres d’état civil 
-révèlent alors que, le même jour et dans le même établissement, Irina Sokolova a donné naissance à deux 
-garçons. Le premier est enregistré sous le nom de Peter Beaumont, le second sous celui d’Alexander 
+La recherche sur Mikhail Sokolov conduit les enquêteurs jusqu’à plusieurs documents administratifs permettant de confirmer son identité et sa vie en Russie. Sa date et son lieu de naissance attirent immédiatement l’attention : Mikhail Sokolov est né à New York le 18 avril 1974.
+Cette information permet de demander, dans le cadre de la coopération judiciaire, les recherches nécessaires dans les archives américaines. Les registres d’état civil révèlent alors que, le même jour et dans le même établissement, Irina Sokolova a donné naissance à deux garçons. Le premier est enregistré sous le nom de Peter Beaumont, le second sous celui d’Alexander 
 Beaumont.
 Le dossier de Peter s’interrompt presque immédiatement après sa naissance. Les documents concernant 
 Alexander, eux, se poursuivent normalement et correspondent à l’identité connue du milliardaire. Cette 
@@ -23,9 +19,7 @@ d’entre elles, les deux garçons sont pratiquement indissociables.
 Galina conserve également des documents personnels d’Irina, dont une lettre écrite après son arrivée en Russie.
 Cette lettre établit qu’Irina est partie avec un seul de ses fils et qu’un deuxième enfant est resté aux États-Unis. 
 Elle évoque Alexander par son prénom et exprime son intention de pouvoir un jour le retrouver.
-Le témoignage de Galina permet enfin de relier les différentes identités. Elle confirme que Peter Beaumont et 
-Alexander Beaumont sont des jumeaux, que Peter est devenu Mikhail Sokolov après leur départ pour la Russie 
-et qu’Alexander a été élevé aux États-Unis sans jamais savoir que son frère existait.
+Les documents conservés par Galina, notamment les photographies familiales et la lettre d’Irina, permettent finalement de relier les différentes identités. Ils établissent que Peter Beaumont et Alexander Beaumont sont des jumeaux, que Peter est devenu Mikhail Sokolov après leur départ pour la Russie et qu’Alexander a été élevé aux États-Unis sans jamais savoir que son frère existait.
 La découverte de ces éléments permet donc d'établir une vérité familiale précise : Alexander Beaumont avait 
 un frère jumeau, né le même jour que lui, qui portait à la naissance le nom de Peter Beaumont et qui a 
 vécu toute sa vie adulte sous le nom de Mikhail Sokolov.
