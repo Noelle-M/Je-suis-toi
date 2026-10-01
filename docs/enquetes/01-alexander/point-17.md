@@ -15,7 +15,7 @@ Alexander Beaumont. Les enquêteurs ne trouvent aucune carte bancaire, aucun pas
 objet portant son nom véritable.
 Un élément permet cependant de retrouver rapidement son lieu de résidence. Parmi ses effets se trouve une clé 
 correspondant au studio qu’il occupait. Le propriétaire est contacté et confirme que l’homme connu sous le 
-nom de Daniel Morel vivait bien dans l’appartement depuis plusieurs mois. Dans le cadre des opérations 
+nom de Daniel Morel vivait bien dans l’appartement depuis trois mois. Dans le cadre des opérations 
 judiciaires menées dans le logement, les enquêteurs découvrent quelques vêtements, des produits de première 
 nécessité, les traces des enveloppes d’argent reçues régulièrement et les rares objets qu’Alexander conservait 
 avec lui.
@@ -50,7 +50,7 @@ Pascal Vautrin apporte un détail beaucoup plus concret. Il se souvient parfaite
 portait. Il les avait remarquées plusieurs fois parce qu’elles étaient complètement disproportionnées par rapport 
 au reste de sa tenue. Il précise surtout que Daniel portait cette même paire depuis les premiers jours où il l’avait
 connu. Il ne les avait donc pas récupérées récemment après être devenu pauvre.
-Bébel confirme ce souvenir lorsqu’il est interrogé. Il connaît Daniel depuis plusieurs mois et affirme que les 
+Bébel confirme ce souvenir lorsqu’il est interrogé. Il connaît Daniel depuis trois mois et affirme que les 
 chaussures étaient déjà les mêmes lorsqu’ils se sont rencontrés. Pour lui, elles faisaient partie de Daniel. Il 
 ajoute que l’homme leur accordait une attention étrange pour quelqu’un qui semblait ne plus avoir grand-chose.
 Il les nettoyait régulièrement et supportait mal qu’on les abîme.
