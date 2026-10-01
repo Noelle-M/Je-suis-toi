@@ -86,7 +86,7 @@ Le joueur peut découvrir certains indices plus tôt que prévu s’il mène les
 | I-022 | Changements remarqués par Jonathan | Beaumont Group | J4 | Alexander semble avoir changé | Jonathan côtoie Mikhail sans connaître le jumeau |
 | I-023 | Changements remarqués par Sarah | Beaumont Group | J4 | Certaines habitudes d’Alexander sont inhabituelles | Mikhail ne maîtrise pas tous les détails du quotidien |
 | I-024 | Changements remarqués par Michael | Véhicule / Beaumont Group | J4 | Des habitudes anciennes ont changé | Mikhail ne possède pas la mémoire corporelle d’Alexander |
-| I-025 | Souvenir non reconnu par David | Beaumont Group | J4-J5 | Alexander semble avoir oublié un souvenir ancien | Mikhail ne partage pas les souvenirs personnels de son frère |
+| I-025 | Souvenir de la Bentley non reconnu par David | Beaumont Group | J4-J5 | Alexander semble avoir oublié un souvenir ancien et précis | En juillet 1999, Alexander avait conduit une vieille Bentley verte de Richard Beaumont avec David jusqu’à Block Island et leur panne sèche constitue un souvenir personnel que Mikhail ne peut pas connaître de lui-même |
 | I-026 | Dossier de naissance des jumeaux | Archives de New York | J5 | Deux garçons sont nés le même jour de Richard et Irina | Alexander a un frère jumeau |
 | I-027 | Nom de naissance Peter Beaumont | Archives de New York | J5 | Un second enfant porte le nom de Beaumont | Peter est devenu Mikhail Sokolov |
 | I-028 | Documents russes de Mikhail | Archives russes | J5-J6 | Mikhail a grandi en Russie après son enfance américaine | Il est Peter Beaumont |
