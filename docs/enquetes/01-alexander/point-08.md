@@ -79,10 +79,7 @@ Cette découverte aurait pu rapprocher les deux frères dans l’esprit de Mikha
 interprète le caractère d’Alexander comme celui d’un homme habitué à tout contrôler parce qu’il a toujours eu 
 les moyens de le faire. Chaque faiblesse qu’Elena lui raconte devient moins une occasion de comprendre son 
 frère qu’un élément supplémentaire permettant de prévoir ses réactions.
-Pendant plusieurs années, Mikhail reste physiquement loin des États-Unis. Il ne rencontre jamais Alexander et 
-ne cherche jamais à entrer directement dans son environnement. Cette séparation protège le projet. Aucun 
-collaborateur du Beaumont Group, aucun ami d’Alexander et aucun membre de son entourage ne doit avoir vu 
-les deux frères avant le début de la substitution.
+Pendant plusieurs années, Mikhail reste soigneusement séparé d’Alexander, même s’il effectue trois séjours courts aux États-Unis afin de se familiariser avec l’environnement dans lequel il devra un jour prendre sa place. En 2022, il séjourne une dizaine de jours entre New York et Greenwich. Il observe le siège du Beaumont Group, les quartiers où vit Alexander et les habitudes générales de son environnement, toujours à distance et sans jamais chercher à l’approcher. En 2024, il revient pendant environ deux semaines pour approfondir sa connaissance des lieux, des codes sociaux américains et du fonctionnement quotidien de l’entreprise. En 2025, un dernier séjour d’environ trois semaines lui permet de mettre en pratique ce qu’il a appris et de préparer concrètement la future substitution. Aucun de ces séjours ne donne lieu à une rencontre avec Alexander et Mikhail évite soigneusement d’apparaître dans son entourage direct. Cette séparation reste indispensable au projet, car aucun collaborateur, ami ou proche d’Alexander ne doit avoir vu les deux frères ensemble avant le début de la substitution.
 Elena reste le lien intime entre les deux hommes, tandis qu’Ethan devient le relais professionnel qui permet de donner une apparence réelle aux menaces.
 À mesure que le temps passe, Mikhail est capable de regarder une interview de son frère et d’anticiper certaines
 de ses réponses. Il connaît les principaux membres de son entourage sans les avoir jamais rencontrés. Il sait 
