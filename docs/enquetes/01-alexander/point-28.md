@@ -14,7 +14,7 @@ La comparaison produit la contradiction que personne n’avait pu résoudre jusq
 
 Le joueur comprend alors que Mikhail est vivant et qu’il utilise l’identité d’Alexander Beaumont. Le corps français ne peut donc pas être celui de Mikhail.
 
-Les éléments génétiques permettent ensuite de rapprocher le mort d’Alexander Beaumont. La différence entre les empreintes et la proximité génétique conduit à la vérité sur les deux hommes : Alexander et Mikhail sont des jumeaux monozygotes. Mikhail est né Peter Beaumont et a ensuite grandi en Russie sous le nom de Mikhail Sokolov.
+Les éléments génétiques permettent ensuite de confirmer que le mort appartient à la famille Beaumont, mais ils ne permettent pas à eux seuls de distinguer Alexander de son jumeau monozygote. La différence entre les empreintes relevées sur le corps et celles de Mikhail, rapprochée des archives établissant que Mikhail est Peter Beaumont et qu’il n’existe que deux jumeaux, permet d’identifier le mort comme Alexander. Les analyses génétiques confirment alors la gémellité et le lien familial sans être utilisées comme une preuve individuelle séparant les deux frères. Mikhail est né Peter Beaumont et a ensuite grandi en Russie sous le nom de Mikhail Sokolov.
 
 Cette révélation donne enfin un sens aux anomalies rencontrées depuis le début. Le visage du mort reconnu par Élise, les chaussures que Bébel savait anciennes, le bouton de manchette familial, le passeport de Mikhail, les changements observés par Jonathan, Sarah, Michael et David, les voyages de Mikhail, les communications avec Elena et les rapports de sécurité d’Ethan appartiennent désormais à une seule histoire.
 
