@@ -59,7 +59,7 @@ travaille énormément et qu’il est effectivement soumis à des responsabilit�
 À la fin de 2025, Mikhail et Elena disposent d’un plan suffisamment avancé pour envisager de faire disparaître 
 temporairement Alexander tout en permettant à Mikhail d’occuper progressivement sa place.
 Janvier-août 2026 — La fabrication de la menace
-En janvier 2026, Elena et Mikhail commencent à mettre en œuvre leur campagne de peur. Ethan Parker participe au dispositif depuis l’intérieur du Beaumont Group et donne une caution professionnelle aux anomalies de sécurité fabriquées ou sélectionnées pour inquiéter Alexander. Les premiers 
+En janvier 2026, Elena et Mikhail commencent à mettre en œuvre leur campagne de peur. Ethan Parker participe au dispositif depuis l’intérieur du Beaumont Group et donne une caution professionnelle aux anomalies de sécurité fabriquées ou sélectionnées pour inquiéter Alexander. Ethan a accepté de les aider parce qu’Alexander commençait à s’intéresser à certaines dépenses de sécurité liées à des contrats qu’Ethan avait volontairement surfacturés par l’intermédiaire de sociétés qu’il contrôlait indirectement. Il risque de voir ses détournements découverts si un audit approfondi est lancé. Elena lui promet de protéger son secret et de lui assurer une importante somme d’argent en échange de sa participation. Les premiers 
 incidents sont suffisamment discrets pour pouvoir être attribués au hasard ou à des problèmes ordinaires. 
 Alexander reçoit des appels silencieux, remarque une voiture à plusieurs reprises et constate que certains objets 
 ont été déplacés dans son bureau.
@@ -118,7 +118,7 @@ Le 9 décembre 2026, il réussit à les semer temporairement et rejoint la gare 
 un exemplaire récent du TIME dont la couverture présente son propre visage.
 Il pense d’abord qu’il s’agit d’une ancienne photographie. Lorsqu’il regarde la date et lit l’article, il comprend 
 que l’homme présenté comme Alexander Beaumont vient de participer à des événements aux États-Unis alors 
-que lui-même vit caché en France depuis plusieurs mois.
+que lui-même vit caché en France depuis trois mois.
 Les photographies montrent son visage aux côtés de personnes qu’il connaît et les dates correspondent à des 
 événements auxquels il n’a jamais participé.
 Alexander comprend qu’un autre homme utilise son identité.
