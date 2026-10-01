@@ -27,6 +27,8 @@ naissance commune, leur ressemblance exceptionnelle et le nom d’Irina dans la 
 comprend que cette découverte est liée au passé que sa mère a toujours refusé d’évoquer.
 Mikhail confronte Irina, mais elle refuse de lui raconter la vérité et lui demande de ne jamais chercher 
 Alexander. Elle meurt en février 2019, à l’âge de 72 ans, sans avoir révélé l’existence de son autre fils.
+Après la révélation de Galina, Mikhail découvre également qu’il est citoyen américain de naissance puisqu’il est né à New York. Il entreprend les démarches nécessaires pour faire reconnaître légalement son nom adulte, Mikhail Sokolov, dans ses documents américains et obtient un passeport américain à ce nom. Lors de son séjour professionnel de 2024, une mission sur un site industriel soumis à un contrôle de sécurité renforcé entraîne une vérification d’antécédents fondée sur ses empreintes digitales ; la prise d’empreintes est conservée dans un système autorisé et pourra être retrouvée lors de son arrestation à Greenwich en 2026.
+
 Après sa mort, Mikhail se tourne vers sa grand-mère Galina. Celle-ci finit par lui raconter toute l’histoire et lui apprend qu’il est né Peter Beaumont, qu’Alexander est son frère jumeau et qu’Irina a fui les États-Unis avec lui lorsqu’ils étaient enfants.
 2019-2021 — Elena et Mikhail
 La découverte d’Alexander bouleverse Mikhail. Il commence à suivre sa vie à distance et découvre l’étendue de
