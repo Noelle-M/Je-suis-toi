@@ -14,7 +14,7 @@ consacrées à l’économie. Il participe à des conférences, des séminaires 
 investisseurs, et voyage fréquemment pour son activité professionnelle. Quelqu’un qui suit l’actualité 
 économique peut immédiatement le reconnaître, mais un policier français qui ne s’intéresse pas 
 particulièrement à ce domaine n’a aucune raison de connaître son visage.
-Il est marié depuis six ans et n’a pas d’enfant. Sa vie privée est très peu exposée. Alexander donne de lui une 
+Il est marié à Elena depuis juin 2021 et n’a pas d’enfant. Sa vie privée est très peu exposée. Alexander donne de lui une 
 image parfaitement maîtrisée, celle d’un dirigeant méthodique, discret, extrêmement professionnel et exigeant. 
 Il accorde rarement des interviews personnelles et protège soigneusement tout ce qui concerne son couple, sa 
 maison et ses habitudes privées.
