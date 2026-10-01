@@ -50,9 +50,7 @@ Pendant plusieurs années, Elena et Mikhail préparent progressivement la possib
 et ses habitudes. Elena lui transmet les informations qu’elle peut connaître grâce à leur vie commune, 
 notamment les habitudes privées, les relations professionnelles et les souvenirs susceptibles de revenir dans les 
 conversations.
-Mikhail effectue plusieurs séjours aux États-Unis afin de se familiariser avec l’environnement de son frère. Il 
-observe les lieux qu’Alexander fréquente, son entreprise et les personnes qui l’entourent. Il ne rencontre jamais 
-directement Alexander.
+Mikhail effectue trois séjours courts aux États-Unis afin de se familiariser avec l’environnement de son frère. En 2022, il séjourne une dizaine de jours entre New York et Greenwich. Il revient environ deux semaines en 2024, puis environ trois semaines en 2025 afin d’approfondir sa connaissance des lieux, des codes sociaux américains et de l’environnement professionnel d’Alexander. Il observe le siège du Beaumont Group, les lieux fréquentés par son frère et les personnes qui l’entourent, sans jamais rencontrer directement Alexander.
 Pendant cette période, Elena commence également à préparer l’entourage d’Alexander à l’idée qu’il traverse 
 une période de fatigue et de pression professionnelle. Cette évolution paraît crédible parce qu’Alexander 
 travaille énormément et qu’il est effectivement soumis à des responsabilités considérables.
