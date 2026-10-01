@@ -1,5 +1,5 @@
 Point 14 — Le point de rupture
-Le jour où tout bascule, Alexander a déjà passé plusieurs mois à Poitiers et il ne croit plus totalement au récit 
+Le jour où tout bascule, Alexander a déjà passé trois mois à Poitiers et il ne croit plus totalement au récit 
 qu’Elena lui répète depuis son départ des États-Unis. Il continue à penser qu’un danger existe réellement, 
 puisque les hommes qui le suivent sont bien réels, mais il commence à comprendre qu’il ne maîtrise presque 
 rien de la situation. Il ne sait pas qui ils sont, qui les paie, ce qu’ils cherchent exactement ni pourquoi ils se 
@@ -12,7 +12,7 @@ que la surveillance fonctionne par relais. Le jour décisif, il quitte son quart
 l’intention de tester jusqu’où il peut les semer. Il modifie plusieurs fois son trajet, traverse des zones 
 fréquentées, change brutalement de direction, emprunte des passages permettant de ressortir ailleurs et profite 
 de la foule pour disparaître de leur champ de vision.
-Pour la première fois depuis des mois, il ne voit plus personne derrière lui.
+Pour la première fois depuis trois mois, il ne voit plus personne derrière lui.
 Alexander n’a aucun moyen de savoir combien de temps cette liberté va durer, mais il décide de ne pas rentrer 
 immédiatement au studio. Il rejoint la gare de Poitiers, où la foule lui donne le sentiment d’être moins 
 vulnérable. Il marche quelques minutes dans le hall avant d’entrer dans le kiosque de presse qui vend, en plus 
